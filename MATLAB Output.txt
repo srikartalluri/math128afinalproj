@@ -1,0 +1,20 @@
+Cur Function 1
+Root found: 0.67155309903563287222
+Num Function Calls: 7
+____
+Cur Function 2
+Root found: 1.25662332250552921664
+Num Function Calls: 9
+____
+Cur Function 3
+Root found: 0.58578643760208659597
+Num Function Calls: 7
+____
+Cur Function 4
+Root found: 0.64171437363104488760
+Num Function Calls: 6
+____
+Cur Function 5
+Root found: -2.19130801179723899708
+Num Function Calls: 10
+____
